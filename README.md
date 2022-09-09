@@ -9,7 +9,7 @@ Q: Which games are supported?\
 A: Drawful 2 (build 137), more to come!
 
 Q: How can I install this mod?\
-A: [https://github.com/SomeOrdinarySanya/jackbox-online-patch/wiki](Read the wiki)
+A: [Read the wiki](https://github.com/SomeOrdinarySanya/jackbox-online-patch/wiki)
 
 Q: Why use this mod?\
 A: You risk getting banned when you are connecting to Nintendo's servers. This mod disabled any connections to Nintendo's servers.
