@@ -1,0 +1,22 @@
+{
+	"connectingDurationAbort":"45000",
+	"connectingDurationTrouble":"15000",
+	"env":"console",
+	"videoplayer":"true",
+	"audio-extension":".ogg",
+	"uaAppName":"TJPP5Loader",
+	"isBundle":"true",
+	"video-extension":".usm",
+	"legalText":"jackboxScaleformFmodCriware",
+	"require-start-privilege":"false",
+	"showBuildVersion":"true",
+	"dev-console":"false",
+	"gameName":"TJPPLoader",
+	"serverUrl":"blobcast-test.jackboxgames.com",
+	"debug":"false",
+	"uaAppId":"tjpp5loader",
+	"uaVersionId":"0.1.0",
+	"logging":"false",
+	"buildTimeStamp":"2018-11-29 18:52:38",
+	"buildVersion":"Build:  187"
+}
