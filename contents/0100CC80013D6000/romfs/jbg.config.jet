@@ -1,0 +1,12 @@
+{
+	"uaVersionId":"1.0.1",
+	"isBundle":"true",
+	"uaAppId":"tjpp3loader",
+	"uaAppName":"TJPP3Loader",
+	"serverUrl":"blobcast-test.jackboxgames.com",
+	"require-start-privilege":"false",
+	"legalText":"jackboxScaleformFmodCriware",
+	"gameName":"TJPP3Loader",
+	"buildTimeStamp":"2017-03-30 17:26:30",
+	"buildRevision":"32524"
+}
