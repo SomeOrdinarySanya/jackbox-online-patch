@@ -6,7 +6,7 @@ Q: I pirated the game, can I get help?\
 A: No, you are on our own.
 
 Q: Which games are supported?\
-A: Drawful 2 (build 137), more to come!
+A: All of the Jackbox games that were released on Switch are supported!
 
 Q: How can I install this mod?\
 A: [Read the wiki](https://github.com/SomeOrdinarySanya/jackbox-online-patch/wiki)
