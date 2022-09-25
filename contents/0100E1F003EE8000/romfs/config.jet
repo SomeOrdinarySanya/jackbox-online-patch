@@ -1,0 +1,15 @@
+{
+	"gameName":"TJPPLoader",
+	"connectingDurationAbort":"45000",
+	"isBundle":"true",
+	"uaAppId":"tjpp4loader",
+	"legalText":"jackboxScaleformFmodCriware",
+	"uaVersionId":"0.1.0",
+	"connectingDurationTrouble":"15000",
+	"require-start-privilege":"false",
+	"serverUrl":"blobcast-test.jackboxgames.com",
+	"uaAppName":"TJPP4Loader",
+	"showBuildVersion":"false",
+	"buildTimeStamp":"2017-10-10 21:43:26",
+	"buildVersion":"Build:  105"
+}
