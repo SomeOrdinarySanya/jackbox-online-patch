@@ -1,0 +1,21 @@
+{
+	"debug":"false",
+	"developer_console":"false",
+	"videoplayer":"true",
+	"bundle":"true",
+	"release":"true",
+	"skip-talkshow-build":"true",
+	"connectingDurationAbort":"45000",
+	"audio-extension":".ogg",
+	"legalText":"jackboxScaleformFmodCriware",
+	"connectingDurationTrouble":"15000",
+	"require-start-privilege":"false",
+	"isBundle":"true",
+	"dev-console":"false",
+	"video-extension":".usm",
+	"serverUrl":"ecast.jackboxgames.com",
+	"logging":"false",
+	"env":"console",
+	"buildTimeStamp":"2023-02-04 09:30:25",
+	"buildVersion":"73"
+}
