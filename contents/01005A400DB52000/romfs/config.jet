@@ -5,7 +5,7 @@
 	"preventDispose":"true",
 	"dev-console":"false",
 	"connectingDurationAbort":"45000",
-	"require-start-privilege":"true",
+	"require-start-privilege":"false",
 	"isBundle":"true",
 	"env":"console",
 	"video-extension":".usm",
